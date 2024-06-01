@@ -13,9 +13,9 @@ npm run serve
 
 ## 功能展示
 ### 用户注册
-![用户注册](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/6b369c4d-3751-44bc-b88e-7987b96b5f79 "用户注册")
+![用户注册](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/e67b9796-61b8-4a56-aa32-62242d851a9c "用户注册")
 ### 网盘界面
-![网盘界面](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/11af19dd-8316-4045-8aef-5b151af6ac14 "网盘界面")
+![网盘界面](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/a9dbce70-3238-46e5-9348-1f6e6ad02327 "网盘界面")
 ### 断点上传
 ![断点上传](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/62b822b9-b8e6-4dbf-a007-622d3e567838 "断点上传")
 ### 下载
