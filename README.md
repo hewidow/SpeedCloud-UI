@@ -17,7 +17,7 @@ npm run serve
 ### 网盘界面
 ![网盘界面](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/f5cbef64-2fc9-4fbe-b98c-b5d8353a5582 "网盘界面")
 ### 断点上传
-![断点上传](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/62b822b9-b8e6-4dbf-a007-622d3e567838 "断点上传")
+![断点上传](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/e433a6b0-e16e-4170-aa6a-15f49857750a "断点上传")
 ### 在线查看
 ![在线查看](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/007199a5-2090-4f38-8998-e2c2ee8fb526 "在线查看")
 ### 分享
