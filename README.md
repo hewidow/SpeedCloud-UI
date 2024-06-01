@@ -13,14 +13,12 @@ npm run serve
 
 ## 功能展示
 ### 用户注册
-![用户注册](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/e67b9796-61b8-4a56-aa32-62242d851a9c "用户注册")
+![用户注册](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/585a959d-d9e4-4f2e-a19f-39d3edfd86b2 "用户注册")
 ### 网盘界面
-![网盘界面](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/a9dbce70-3238-46e5-9348-1f6e6ad02327 "网盘界面")
+![网盘界面](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/f5cbef64-2fc9-4fbe-b98c-b5d8353a5582 "网盘界面")
 ### 断点上传
 ![断点上传](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/62b822b9-b8e6-4dbf-a007-622d3e567838 "断点上传")
-### 下载
-![下载](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/ee87c36f-5681-45a2-8cd5-7d6ae5e5e182 "下载")
 ### 在线查看
-![在线查看](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/aed471cd-f04c-4181-b3c7-0b317263a9eb "在线查看")
+![在线查看](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/007199a5-2090-4f38-8998-e2c2ee8fb526 "在线查看")
 ### 分享
-![分享](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/632ac368-9f36-4cdc-a6ca-2bba40bee1cd "分享")
+![分享](https://github.com/hewidow/SpeedCloud-UI/assets/23414174/c8ff6497-39cd-4659-8742-76b5100783db "分享")
